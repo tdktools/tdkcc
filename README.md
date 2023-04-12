@@ -14,4 +14,7 @@ The configuration of built TDK cross compiler toolchains is:
  * glibc - 2.31  - a 3rd party C library
  * linux - 5.10.100 – part of Linux kernel source 
 
+Archives:
+ * [Ubuntu18.04.6][src]ccwork.tar.xz
+
 For more information of how to built out TDK cross compilers, please refer to TDKCrossCompilerArm64.docx.
